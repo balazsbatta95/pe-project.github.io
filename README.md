@@ -1,4 +1,4 @@
-Párhuzamos Életrajzok
+﻿Párhuzamos Életrajzok
 =====================
 
 2018. március 1.
@@ -11,3 +11,4 @@ Párhuzamos Életrajzok
 ### Adatvizualizáció
 ### Disszemináció
 ## A csapat
+### BB
